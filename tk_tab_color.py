@@ -6,6 +6,7 @@
 
 import tkinter as tk
 from tkinter import ttk
+os.getcwd()
 
 
 # In[3]:
